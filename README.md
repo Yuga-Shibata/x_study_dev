@@ -11,16 +11,6 @@ X studyは、2022年度卒の卒業研究のために作成した勉強会のた
 
 "hoge"のセールスポイントや差別化などを説明する
 
-# Usage
-
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
-
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
-
 # Note
 
 注意点などがあれば書く
@@ -37,7 +27,3 @@ python demo.py
 ライセンスを明示する
 
 "hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
-社内向けなら社外秘であることを明示してる
-
-"hoge" is Confidential.
