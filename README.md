@@ -24,6 +24,5 @@ X studyは、2022年度卒の卒業研究のために作成した勉強会のた
 * E-mail
 
 # License
-ライセンスを明示する
 
 "X study" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
